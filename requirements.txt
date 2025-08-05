@@ -1,3 +1,5 @@
 flask
 requests
 mysql-connector-python==8.0.31
+pytest
+pytest-flask
