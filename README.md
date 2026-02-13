@@ -1,1 +1,1 @@
-# diplom
+# EDU Page
